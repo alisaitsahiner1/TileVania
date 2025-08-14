@@ -1,6 +1,6 @@
 # 🎮 Tile Vania
 
-**Tile Vania** is a 2D platformer game developed with **Unity**, featuring fluid character movement, ranged combat, enemy AI, and collectible mechanics. Players must navigate a dangerous world filled with spikes, water hazards, and patrolling enemies—all while collecting gold and progressing through beautifully animated levels.
+**Tile Vania** is a 2D platformer game developed with **Unity**, featuring fluid character movement, ranged combat, enemy AI, and collectible mechanics. Players must navigate a dangerous world filled with spikes, water hazards, and patrolling enemies—all while collecting gold and progressing through beautifully animated levels!
 
 ---
 
